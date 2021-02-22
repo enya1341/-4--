@@ -270,7 +270,7 @@ header {
 
 
 #service {
-  height:2000px;
+  height:1900px;
   width:100%;
   margin-top:300px;
   background-color:#c9c6c6;
@@ -292,8 +292,8 @@ header {
   position: absolute;
   width:30%;
   background-color:white;
-  padding:100px 70px;
-  margin:170px 0 0 20%;
+  padding:6% 5%;
+  margin:7% 0 0 20%;
   z-index:10;
 }
 
@@ -318,7 +318,7 @@ header {
 
 .service-top-image {
   width:50%;
-  margin:20px 0 0 50%;
+  margin:2% 0 0 50%;
 }
 
 
@@ -332,8 +332,8 @@ header {
   position: absolute;
   width:30%;
   background-color:white;
-  padding:100px 70px;
-  margin:500px 0 0 40%;
+  padding:6% 5%;
+  margin:24% 0 0 40%;
   z-index:10;
 }
 
@@ -358,5 +358,5 @@ header {
 
 .service-bottom-image {
   width:50%;
-  margin:370px 0 0 0;
+  margin:20.5% 0 0 0;
 }
