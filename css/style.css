@@ -257,9 +257,9 @@ header {
 
 .bottom-img{
   position: absolute;
-  height:450px;
+  width:37%;
   top:160px;
-  left:55%;
+  left:60%;
   z-index:10;
 }
 
@@ -293,7 +293,7 @@ header {
   width:30%;
   background-color:white;
   padding:100px 70px;
-  margin:200px 0 0 20%;
+  margin:170px 0 0 20%;
   z-index:10;
 }
 
@@ -308,18 +308,17 @@ header {
 }
 
 .top-service-details a{
-  display:inline;
   color:black;
   text-decoration: none;
-  padding:5px 25px;
-  margin-left:420px;
+  padding:10px 25px;
+  float:right;
   font-weight: bold;
   border: 1px black solid;
 }
 
 .service-top-image {
   width:50%;
-  margin:50px 0 0 50%;
+  margin:20px 0 0 50%;
 }
 
 
@@ -334,7 +333,7 @@ header {
   width:30%;
   background-color:white;
   padding:100px 70px;
-  margin:550px 0 0 40%;
+  margin:450px 0 0 40%;
   z-index:10;
 }
 
@@ -349,16 +348,15 @@ header {
 }
 
 .bottom-service-details a{
-  display:inline;
   color:black;
   text-decoration: none;
-  padding:5px 25px;
-  margin-left:420px;
+  padding:10px 25px;
+  float:right;
   font-weight: bold;
   border: 1px black solid;
 }
 
 .service-bottom-image {
   width:50%;
-  margin:450px 0 0 0;
+  margin:370px 0 0 0;
 }
