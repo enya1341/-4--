@@ -415,7 +415,7 @@ header {
   background-color:black;
   color:white;
   display:flex;
-
+  align-items: center;
 }
 
 .faq h3{
@@ -428,7 +428,7 @@ header {
   margin:0 auto;
   text-align: center;
   padding-right:8%;
-  line-height:850%;
+
 }
 
 #contact {
