@@ -360,3 +360,95 @@ header {
   width:50%;
   margin:20.5% 0 0 0;
 }
+
+
+
+/* ---overview--- */
+
+
+
+#overview {
+  height:850px;
+}
+
+.information {
+  display: flex;
+}
+
+
+.company {
+  width:47%;
+  height:25%;
+  background-image:url(../img/company.jpeg);
+  background-size:cover;
+  margin-top:10%;
+  color:white;
+  text-align: center;
+  padding:5% 0;
+}
+
+.company h3{
+  font-size:28px;
+  line-height: 140%;
+}
+
+.recruit {
+  width:47%;
+  height:25%;
+  background-image:url(../img/recruit.jpg);
+  background-size:cover;
+  margin:10% 0 0 auto;
+  color:white;
+  text-align: center;
+  padding:5% 0;
+}
+
+.recruit h3{
+  font-size:28px;
+  line-height: 140%;
+}
+
+.faq {
+  width:85%;
+  height:15%;
+  margin:10% auto 0;
+  background-color:black;
+  color:white;
+  line-height:100%;
+  display:flex;
+
+}
+
+.faq h3{
+  font-size:28px;
+  padding-left:2%;
+}
+
+.faq p{
+  margin:0 auto;
+  text-align: center;
+  padding-right:8%;
+}
+
+#contact {
+  height:600px;
+  background-image: url(../img/contact-bg.jpg);
+  background-size:cover;
+  color:white;
+  text-align: center;
+}
+
+.contact-top {
+  padding:10% 0 4% 0;
+}
+
+.contact-top h1{
+  line-height:160%;
+  font-size:32px;
+}
+
+#contact h3{
+  font-size:28px;
+  font-weight: normal;
+  letter-spacing:2px;
+}
